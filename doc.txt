@@ -1,0 +1,61 @@
+n blue-#0F2656
+s blue-#008AFF
+
+html css-reusable block
+css code hei----
+
+
+
+first-child
+last-child
+nth-child()
+
+
+
+font-family 
+
+font-size
+	px,pt,em,rem
+
+font-weight
+	300
+	400
+	700
+	900
+
+color
+text-transform
+line-height
+letter-spaching
+word-spaching
+
+
+
+free
+pre
+
+cdn
+download
+
+ui ux
+
+color communication
+	food-black-yellow-red
+
+box-shadow
+gadient
+noise text
+border redious
+
+it,s time to ampolify your online business.
+
+lerem ipsum dolar sit amet consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolare magna alique. ut enim and minim veniam.
+
+3k+
+Execpteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Successfully completed projects & ideas.
+
+Unleash you creativity
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
